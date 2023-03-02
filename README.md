@@ -32,7 +32,7 @@ So if you're looking to integrate Redis into your application, we encourage you 
  </table>
  
 ## Contribution guide
-Can be found [here](https://github.com/marcosmol204/redis-approaches/blob/main/.operations/CONTRIBUTING.md)
+Can be found [here](https://github.com/marcosmol204/redis-approaches/blob/main//CONTRIBUTING.md)
 
 ## Contributors
 
